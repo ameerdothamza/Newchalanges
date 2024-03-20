@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-family: Roboto;
+  }
+  
+  .container {
+    width: 570px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -48%);
+  }
